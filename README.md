@@ -8,3 +8,4 @@ You'll also need to have Axios installed (you can just use ```npm install axios`
 
 There's also a solid amount of npm installs that you have to do. Running npm install should take care of most of them. If any don't work, use ```sudo npm install <package-name>``` to install them. If react-navigation-screens is giving you issues, follow the advice in here: https://github.com/react-navigation/react-navigation/issues/6594. If there are any other issues, again, just message me on Teams.
 
+Also, I didn't bother uploading all the regular React Native stuff, like the package.json file and everything in node_modules. This is just the main code that runs the program. You'll have to install all the other stuff yourself (recommend using the Expo project generator.)
